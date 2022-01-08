@@ -21,8 +21,9 @@ h1{
 .section{
     background-color: gray;
     border: 2px solid black;
-    width: 80%;
+    margin-inline: 5%;    
     height: max-content;
+    margin-bottom: 5%;
 }
 
 .section-titulo{
