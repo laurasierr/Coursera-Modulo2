@@ -21,7 +21,7 @@ h1{
 .section{
     background-color: gray;
     border: 2px solid black;
-    margin-inline: 5%;    
+    margin-block: 5%;    
     height: max-content;
     margin-bottom: 5%;
 }
